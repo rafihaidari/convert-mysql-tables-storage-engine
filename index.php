@@ -57,7 +57,7 @@
 
                                 <!-- User input -->
                                 <div class="form-outline mb-4">
-                                    <input type="password" id="dbUser" name="dbUser" class="form-control" autocomplete="off" />
+                                    <input type="text" id="dbUser" name="dbUser" class="form-control" autocomplete="off" />
                                     <label class="form-label" for="dbUser">User</label>
                                 </div>
 
