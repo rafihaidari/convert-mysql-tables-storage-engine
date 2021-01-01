@@ -1,0 +1,28 @@
+.table > :not(caption) > * > * {
+  padding: 2px;
+}
+.scrollit {
+  overflow-y: scroll;
+  height: 215px;
+  border: 1px solid #bdbdbd;
+  border-radius: 5px 0 0 5px;
+}
+.alert {
+  padding: 5px;
+}
+.alert-dismissible .btn-close {
+  padding: 10px;
+}
+.table th {
+  font-weight: 600;
+}
+.myLabel {
+  margin-left: 0px;
+  padding: 5px;
+  margin: 5px !important;
+  color: #1266f1;
+}
+.drpdown {
+  border: 1px solid lightgray;
+  border-radius: 5px;
+}
